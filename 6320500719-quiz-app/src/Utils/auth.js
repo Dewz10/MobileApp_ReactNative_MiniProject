@@ -1,6 +1,6 @@
 // import React from "react";
 import auth from "@react-native-firebase/auth";
-import { ToastAndroid } from "react-native/types";
+import ToastAndroid from "react-native";
 
 export const signIn = (email, password) => {
   auth()
