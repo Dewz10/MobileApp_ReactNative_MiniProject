@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854152308899",
+    "project_id": "quizappreactnative-ad41c",
+    "storage_bucket": "quizappreactnative-ad41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854152308899:android:92cb12773e841558fd3716",
+        "android_client_info": {
+          "package_name": "com.fullstackquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854152308899-egdom0cgv6520g6n70rrcuoufsekbmh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGj7x_-o_edIYIDHssWL3srRjkniz930"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854152308899-egdom0cgv6520g6n70rrcuoufsekbmh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
