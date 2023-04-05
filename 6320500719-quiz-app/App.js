@@ -1,12 +1,14 @@
+import "react-native-gesture-handler";
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
+import { NavigationContainer } from "@react-navigation/native";
+import AuthSatckNavigator from "./src/navigators/AuthSatckNavigator";
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>My Project!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <NavigationContainer>
+      <AuthSatckNavigator />
+    </NavigationContainer>
   );
 }
 
